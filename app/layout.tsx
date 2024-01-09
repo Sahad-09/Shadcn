@@ -25,7 +25,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange>
           <nav className=" flex justify-between">
-            <h1>Hi!!! Learning Shadcn</h1>
+            <h1>Hey Doc !!</h1>
             <ModeToggle />
           </nav>
           {children}
